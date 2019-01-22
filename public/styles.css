@@ -1,0 +1,96 @@
+
+body {
+margin: auto;
+font-family: verdana;
+}
+.actors-form{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+}
+
+.privateaser-form-header {
+text-align: center;
+border: 2px solid #D6D9DC;
+border-radius: 3px;
+width: 60%;
+margin: 100px 100px 0;
+padding: 30px;
+}
+
+.privateaser-form-header h1 {
+font-size: 30px;
+margin: 20px;
+margin-left: 50px;
+margin-right: 50px;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+.form-row {
+margin-bottom: 40px;
+display: flex;
+justify-content: flex-start;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+.form-row input[type='text'] {
+background-color: white;
+border: 1px solid #D6D9DC;
+border-radius: 3px;
+width: 100%;
+padding: 7px;
+font-size: 14px;
+}
+
+.form-row input[type='number'] {
+background-color: white;
+border: 1px solid #D6D9DC;
+border-radius: 3px;
+width: 100%;
+padding: 7px;
+font-size: 14px;
+}
+
+.form-row input[type='checkbox'] {
+border: 1px solid #D6D9DC;
+border-radius: 3px;
+width: 100%;
+padding: 7px;
+font-size: 14px;
+}
+script{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+}
+
+div{
+  width: 60%;
+margin: 20px 100px 0;
+font-family: verdana;
+display: block;
+}
+
+input {
+font-family: verdana;
+}
+
+button{
+  margin: 20px 100px 0;
+}
+button:link {
+color: blue;
+text-decoration: none;
+}
+button:visited {
+color: purple;
+}
+button:hover {
+color: green;
+text-decoration: underline;
+}
+button:active {
+color: red;
+}
